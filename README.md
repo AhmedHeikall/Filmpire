@@ -12,7 +12,7 @@ Filmpire combines the desire to unleash powerful creativity with the industry's 
 
 - user authentication,
 - light and dark mode,
-- API calls with axios and Redux(RTQ),
+- API calls with Axios and Redux(RTQ),
 - actors and movie details page,
 - watchlist and list of favorite movies,
 - movie search functionality,
